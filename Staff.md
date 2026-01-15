@@ -1,6 +1,3 @@
-I reformatted the sheet as a clean Markdown file you can copy into your repo. Below is the full file content.
-
-````markdown name=Java_Interview_Cheat_Sheet.md url=https://github.com/ajkush/JavaCheatSheet/blob/8f8074890a5863e9c75eb02d49f1568ec41ee6a0/Staff
 # 🎓 Java Backend/Staff Engineer Interview Cheat Sheet (2026)
 
 ## 1. STAFF-LEVEL SYSTEM DESIGN PATTERNS
@@ -486,5 +483,4 @@ Business Alerts:
 **Target Roles:** Senior/Staff/Principal Backend Engineer  
 **Focus:** System Design, Performance, Cloud-Native Java  
 
-Copy this entire text and paste it into your GitHub repository as a `.md` file (e.g., `Java_Interview_Cheat_Sheet.md`). GitHub will render it beautifully with syntax highlighting and proper formatting.
-````
+Copy this entire text and paste it into your GitHub repository as a `.md` file (e.g., `Java_Interview_Cheat_Sheet.md`). GitHub will render it beautifully with syntax highlighting and proper formatting
